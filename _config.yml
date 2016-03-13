@@ -1,0 +1,28 @@
+name: Black Orbs
+favicon: null
+layout_spectrum: 0.46067321696318686
+typography_spectrum: 0.9645700412802398
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.30746142915450037
+  lightness: 0.5769905976485461
+  saturation: 0.044647127855569124
+  rhythmicContrast: 0.8729535355232656
+purpose: []
